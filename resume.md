@@ -1,7 +1,7 @@
 
 # JENSEN N. HU, MPH
 
-(626) 807-0027 • Jensennhu@gmail.com  
+Jensennhu@gmail.com  
 Astoria, NY  
 GitHub: https://github.com/jensennhu
 
@@ -20,7 +20,7 @@ Bachelor of Science, Health Science (2010–2014)
 
 ## Work Experience
 
-### Mathematica — Data Analyst / Research Programmer  
+### Mathematica — Senior Data Analytics Developer 
 June 2022 – March 2025
 
 - Developed data processing pipelines for federal program evaluations using R, Stata, SAS, and Python
