@@ -1,8 +1,8 @@
 
 # JENSEN N. HU, MPH
 
-Jensennhu@gmail.com  
-Astoria, NY  
+Email: Jensennhu@gmail.com  
+Location: NYC, NY  
 GitHub: https://github.com/jensennhu
 
 ---
