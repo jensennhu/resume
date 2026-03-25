@@ -23,10 +23,8 @@ Bachelor of Science, Health Science (2010–2014)
 June 2022 – March 2025
 
 - Collaborated with multidisciplinary research teams to deliver rapid-turnaround analyses and reporting for government stakeholders across workforce, education, and social policy programs. Program involved: Healthy Marriage and Responsible Fatherhood (HMRF), Regional Educational Laboratory (REL) for the Mid-Atlantic region, Retaining Employment and Talent After Injury/Illness Network (RETAIN), Analysis of Strategies for Expanding Apprenticeship (ASEA), School Meals Operations (SMO), Adult National Directory of New Hires (NDNH)
-- Developed and maintained data processing pipelines for federal program evaluations using R, Stata, SAS, and Python, integrating administrative and survey datasets.
-- Built automated reporting workflows producing statistical tables and metrics
+- Developed and maintained data processing pipelines for federal program evaluations using R, Stata, SAS, and Python, integrating administrative and survey datasets and automating reporting workflows producing statistical tables and metrics
 - Designed data cleaning scripts for multi-state administrative datasets
-- Implemented QA processes including validation and pipeline troubleshooting
 
 ---
 
