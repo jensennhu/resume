@@ -1,7 +1,7 @@
 
-# Programmable Resume (Markdown + Pandoc)
+# Programmable Resume
 
-This project lets you maintain your resume as **Markdown** and generate PDF, Word, or HTML versions automatically.
+Helps maintain my resume as **Markdown** and generate PDF, Word, or HTML versions automatically.
 
 ## Requirements
 
@@ -13,13 +13,9 @@ https://tug.org/mactex/ (Mac recommended)
 
 ## Build Resume
 
-Run:
+Run: bash build.sh
 
-bash build.sh
-
-Outputs will appear in:
-
-output/
+Outputs will appear in: output/
 
 ## Files
 
