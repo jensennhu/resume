@@ -2,7 +2,7 @@
 # JENSEN N. HU, MPH
 
 Email: Jensennhu@gmail.com  
-Location: NYC, NY  
+Location: New York City, NY  
 GitHub: https://github.com/jensennhu
 
 ---
