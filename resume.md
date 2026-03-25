@@ -11,7 +11,6 @@ GitHub: https://github.com/jensennhu
 
 **Boston University School of Public Health**  
 Master of Public Health, Epidemiology (2014–2016)  
-Merit Scholar Recipient
 
 **Boston University**  
 Bachelor of Science, Health Science (2010–2014)
@@ -23,7 +22,8 @@ Bachelor of Science, Health Science (2010–2014)
 ### Mathematica — Senior Data Analytics Developer 
 June 2022 – March 2025
 
-- Developed data processing pipelines for federal program evaluations using R, Stata, SAS, and Python
+- Collaborated with multidisciplinary research teams to deliver rapid-turnaround analyses and reporting for government stakeholders across workforce, education, and social policy programs. Program involved: Healthy Marriage and Responsible Fatherhood (HMRF), Regional Educational Laboratory (REL) for the Mid-Atlantic region, Retaining Employment and Talent After Injury/Illness Network (RETAIN), Analysis of Strategies for Expanding Apprenticeship (ASEA), School Meals Operations (SMO), Adult National Directory of New Hires (NDNH)
+- Developed and maintained data processing pipelines for federal program evaluations using R, Stata, SAS, and Python, integrating administrative and survey datasets.
 - Built automated reporting workflows producing statistical tables and metrics
 - Designed data cleaning scripts for multi-state administrative datasets
 - Implemented QA processes including validation and pipeline troubleshooting
@@ -77,5 +77,5 @@ AMIA Informatics Summit, San Francisco (2018)
 
 ## Skills
 
-**Languages:** Python, R, SAS, Stata, SQL  
+**Languages:** R, Stata, SAS, Python, SQL  
 **Tools:** Jupyter, RStudio, SQL Server, Tableau, Git, Excel
