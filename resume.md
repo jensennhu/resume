@@ -32,7 +32,7 @@ June 2022 – March 2025
 Sept 2021 – May 2022
 
 - Analyzed mental health burden in NYC public schools using Python and SPARCS ED visit data
-- Reported COVID-19 vaccination coverage using SQL Server and Python
+- Reported and archived COVID-19 vaccination coverage using SQL Server and Python
 - Responded to ad‑hoc analytics requests from medical unit stakeholders
 - Enhanced legacy SAS programs identifying severe asthma risk in schools
 
